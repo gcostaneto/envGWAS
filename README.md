@@ -1,5 +1,5 @@
 # envGWAS
-*Envirome-to-Genome Association Mapping in R *
+**Envirome-to-Genome Association Mapping in R**
 
 
 ## Objective
@@ -44,7 +44,7 @@ Please contact <germano.cneto@gmail.com> for more detail about the usage, sugges
 
 <div align='center'>
   
-<a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=159092&s=1' border='0' alt='Free Website Hit Counter'></a><br / ><small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small>
+<div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=160091&s=5' border='0' alt='Free Website Hit Counter'></a><br / ><small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small></div>
 
 </div>
 
